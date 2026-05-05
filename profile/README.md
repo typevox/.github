@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Release-Coming_Soon-orange?style=for-the-badge&logo=rocket" alt="Release Status">
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" alt="Platform">
-  <img src="https://img.shields.io/badge/Powered_by-Whisper-white?style=for-the-badge&logo=openai" alt="AI Engine">
+  <img src="https://img.shields.io/badge/Powered_by-Wolfvox-white?style=for-the-badge&logo=openai" alt="AI Engine">
 </p>
 
 ---
